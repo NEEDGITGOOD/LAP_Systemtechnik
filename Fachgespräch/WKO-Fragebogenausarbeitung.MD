@@ -21,7 +21,7 @@ Kenntnisse über die ergonomische Einrichtung eines Bildschirmarbeitsplatzes
 - ruhige Umgebung
 - Beinfreiheit
 
-# Source: https://www.arbeitsinspektion.gv.at/Arbeitsstaetten-_Arbeitsplaetze/Ergonomie/Bildschirmarbeitsplatz.html#heading_Schnelleinstieg_zur_Errichtung_eines_Buero_Bildschirmarbeitsplatzes
+Source: https://www.arbeitsinspektion.gv.at/Arbeitsstaetten-_Arbeitsplaetze/Ergonomie/Bildschirmarbeitsplatz.html#heading_Schnelleinstieg_zur_Errichtung_eines_Buero_Bildschirmarbeitsplatzes
 
 Kenntnisse über den optimalen Aufstellungsort von Bildschirmen (Lichteinfall) 
 - Beleuchtung: Vermeidung von Blendung & Reflexionen auf dem Bildschirm; indirektes Licht bevorzugt, vermeiden von direkter Sonneneinstrahlung
@@ -497,7 +497,7 @@ Sichere Verbindungen, Verschlüsselung
 - Verschlüsselung ist die von einem Schlüssel abhängige Umwandlung von „Klartext" genannten Daten in einen „Geheimtext", so dass der Klartext aus dem Geheimtext nur unter Verwendung eines geheimen Schlüssels wiedergewonnen werden kann.
 - **Authentifizierung**: Sicherstellung, dass die Kommunikationspartner echt sind, oft durch Zertifikate realisiert.
 - **Anwendungsbereiche**: Online-Banking, E-Mail-Verschlüsselung, sichere Webseitenzugriffe (HTTPS), VPNs.
-- 
+
 - **Integrität**: Überprüfung, dass Daten während der Übertragung nicht verändert wurden, z.B. mittels Hash-Funktionen.
 
 - **Protokolle**: TLS (Transport Layer Security) und SSL (Secure Sockets Layer) für sichere Internetverbindungen.
@@ -3154,7 +3154,7 @@ Einrichten eines Backup-Jobs
 - Festlegung des Zeitplans: Bestimmung, wie oft die Sicherung durchgeführt wird (täglich, wöchentlich, monatlich).
 - Sicherungstyp wählen: Entscheidung zwischen Voll-, Differenzial- oder Inkrementellsicherung.
 - Konfiguration von Sicherungsoptionen: Einstellungen zur Verschlüsselung, Komprimierung und Fehlerbenachrichtigung.
-- Prüfung und Testlauf: Überprüfung der Konfiguration durch Ausführen des Jobs zur Verifizierung der korrekten Ausführung.- 
+- Prüfung und Testlauf: Überprüfung der Konfiguration durch Ausführen des Jobs zur Verifizierung der korrekten Ausführung.
 
 <!-- Installation und Aktualisierung von Treibern -->
 
