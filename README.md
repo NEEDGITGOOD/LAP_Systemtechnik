@@ -20,8 +20,6 @@ Im praktischen Teil der Prüfung wird eine **Ausarbeitung inklusive eines techni
 Die Themengebiete sind nachfolgend aufgelistet und bieten spezifische Übungen und Informationen:
 
 - [Windows Domäne](Windows_Domäne/README.MD)
-- [Cisco Packet Tracer](Cisco_Packet_Tracer/README.MD)
-- [Büroplannung](Büroplannung/README.MD)
 
 Da nicht vollständig klar ist, ob Linux Teil der Prüfung ist, wird empfohlen, sich auch in diesem Bereich vorzubereiten:
 
