@@ -1,6 +1,7 @@
   
 Quelle: [WKO Themenkatalog](https://www.wko.at/ooe/bildung-lehre/themenkatalog-informationstechnologie-v2-2023.pdf)
   
+Manche Fragen/Themen wurden ausgelassen (Zu einfach, Frage die nicht einfach beantworten kann, etc.)
 
 # A) Allgemeiner Teil - Informationstechnologie
 
