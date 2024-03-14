@@ -30,7 +30,7 @@ Kenntnisse über den optimalen Aufstellungsort von Bildschirmen (Lichteinfall)
 Kenntnisse der gesetzlichen Bestimmungen von Pausen bei Bildschirmarbeit 
 - Bei 50 Minuten ununterbrochener Bildschirmarbeit eine Pause oder Tätigkeitswechsel von mindestens 10 Minuten
 
-Kenntnisse über die ideale Höhe von Tisch/Tastatur, Bildschirmoberkante und Bildschirmabstand zum Benutzer #AnswerFr!!!
+Kenntnisse über die ideale Höhe von Tisch/Tastatur, Bildschirmoberkante und Bildschirmabstand zum Benutzer
 - Tischhöhe ca. 75cm
 - Abstand zum Bildschirm:
   - ca. 50 - 70 cm
