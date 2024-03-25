@@ -2474,13 +2474,13 @@ Fachbegriff HSDPA
 - Ermöglicht simultane Sprach- und Datenübertragungen
 - Wurde weiterentwickelt zu HSPA+ für noch höhere Geschwindigkeiten
 
-!Done!_Fachbegriff NFC
+Fachbegriff NFC
 - Nahfeldkommunikationstechnologie
 - Drahtloser Datenaustausch
 - Kurze Distanz (<10 cm)
 - Ermöglicht kontaktloses Bezahlen
 
-!Done!_Fachbegriff GPS/GPS-Tracking
+Fachbegriff GPS/GPS-Tracking
 - GPS = Global Positioning System
 - Ist ein globales Navigationssatellitensystem zur Positionsbestimmung
 - Globales Positionsbestimmungssystem
@@ -2492,7 +2492,7 @@ Fachbegriff HSDPA
 
 ### 1.4 Server-, Storage- und Rechenzentren
 
-!Done!_Kenntnis der Unterschiede von Rackmount-Server und Blade-Server
+Kenntnis der Unterschiede von Rackmount-Server und Blade-Server
 - **Rackmount-Server**:
   - Individuell in Serverracks einbaubar.
   - Benötigt spezifische Kühlungs- und Stromversorgungsmaßnahmen pro Gerät.
@@ -2505,7 +2505,7 @@ Fachbegriff HSDPA
   - Hohe Dichte an Rechenleistung in weniger Raum.
   - Schnelleres Deployment und einfachere Verwaltung durch zentralisierte Ressourcen, aber weniger Flexibilität bei der Hardware-Konfiguration.
 
-!Done!_Fachbegriff SAN
+Fachbegriff SAN
 - Abkürzung für Storage Area Network
 - Dient der zentralisierten Datenspeicherung in Netzwerken
 - Bietet schnellen, blockbasierten Speicherzugriff
@@ -2517,7 +2517,7 @@ Fachbegriff HSDPA
 - Skalierbar, ermöglicht einfache Erweiterung des Speicherplatzes
 - Wird primär in Unternehmensumgebungen eingesetzt
 
-!Done!_Kenntnisse über NAS-Systeme und deren Einsatzbereiche
+Kenntnisse über NAS-Systeme und deren Einsatzbereiche
 - Definition: Netzwerkgebundene Speichersysteme, die eine zentrale Datenspeicherlösung in einem Netzwerk bieten.
 - Funktionsweise: Verbindung über das Netzwerk ermöglicht den simultanen Datenzugriff für mehrere Nutzer und Geräte.
 - Einsatzbereiche:
@@ -2526,16 +2526,16 @@ Fachbegriff HSDPA
   - Dateifreigabe: Gemeinsamer Zugriff auf Dokumente für Teams, ohne Cloud-Dienste nutzen zu müssen.
   - Überwachungssysteme: Speicherung von Videoaufnahmen von Sicherheitskameras.
 
-!Done!_Fachbegriff Snapshot
+Fachbegriff Snapshot
 - Momentaufnahme des Systems oder Datenzustands
 - Schnelle und effiziente Methode zur Datensicherung
 - Erzeugt zu einem bestimmten Zeitpunkt
 - Beispielsweise ein Snapshot von einer VM in Virtualbox
 
-!Done!_Fachbegriff Daten-Redundanz
+Fachbegriff Daten-Redundanz
 - Daten-Redundanz bezieht sich auf das Vorhandensein von zusätzlichen Kopien von Daten, um deren Verfügbarkeit und Integrität zu gewährleisten. Redundanz kann durch verschiedene Techniken erreicht werden, wie z.B. das Spiegeln von Festplatten oder die Verwendung von RAID-Systemen.
 
-!Done!_Fachbegriff RAID-Level (0/1/5)
+Fachbegriff RAID-Level (0/1/5)
 - RAID-Level 0 (Striping):
   - Verteilt Daten gleichmäßig über zwei oder mehr Festplatten, ohne Datenredundanz
   - Verbessert Leistung durch parallele Datenverarbeitung
@@ -2551,7 +2551,7 @@ Fachbegriff HSDPA
   - Bietet Ausfallsicherheit; Daten können bei Ausfall einer Disk rekonstruiert werden
   - Ein Teil der Kapazität jeder Disk wird für Paritätsinformationen genutzt, verbessert Effizienz gegenüber RAID 1
 
-!Done!_Fachbegriffe Hot-Plugging und Hot-Spare
+Fachbegriffe Hot-Plugging und Hot-Spare
 - **Hot-Plugging:**
   - Möglichkeit, Hardware-Komponenten (z.B. Festplatten, USB-Geräte) während des laufenden Betriebs eines Computersystems anzuschließen oder zu entfernen.
   - Kein Neustart des Systems notwendig.
@@ -2564,7 +2564,7 @@ Fachbegriff HSDPA
   - Keine manuelle Intervention für den Austausch notwendig.
   - Oft in kritischen und hochverfügbaren Umgebungen eingesetzt, z.B. Server, Netzwerkspeicher.
 
-!Done!_Fachbegriff Teaming in Zusammenhang mit Netzwerk-Ports
+Fachbegriff Teaming in Zusammenhang mit Netzwerk-Ports
 - Kombination mehrerer Netzwerkverbindungen für erhöhte Bandbreite oder Redundanz
 - Einsatz von mehreren Netzwerkports auf einer Hardware (z.B. Server, Switch) als eine logische Einheit
 - Steigerung der Netzwerkleistung und -zuverlässigkeit
@@ -2573,7 +2573,7 @@ Fachbegriff HSDPA
 - Konfiguration erfolgt durch Netzwerkverwaltungssoftware
 - Kann auf Betriebssystem- oder Hardware-Ebene realisiert werden
 
-!Done!_Unterscheidung von Offline- und Online-USV-Anlagen
+Unterscheidung von Offline- und Online-USV-Anlagen
 - Offline-USV:
   - Grundprinzip: Spannungsversorgung direkt aus dem Stromnetz bei Normalbetrieb
   - Einsatz der Batterie/Stromumwandlung: Nur bei Stromausfall
@@ -2588,13 +2588,13 @@ Fachbegriff HSDPA
   - Nachteile: Höhere Kosten, erhöhter Energieverbrauch durch permanenten Umwandlungsprozess
   - Typischer Einsatz: Kritische Infrastrukturen, Datenzentren, medizinische Einrichtungen
 
-!Done!_Kenntnisse über optimale Klimatisierung in Rechenzentren
+Kenntnisse über optimale Klimatisierung in Rechenzentren
 - Die optimale Klimatisierung in Rechenzentren zielt darauf ab, eine stabile Temperatur und Feuchtigkeit zu gewährleisten, um die Hardware vor Überhitzung oder Feuchtigkeitsschäden zu schützen. Effiziente Kühlsysteme und das Management des Luftstroms sind entscheidend.
 
-!Done!_Kenntnisse über Zutrittsschutz/Zutrittskontrolle bei Rechenzentren
+Kenntnisse über Zutrittsschutz/Zutrittskontrolle bei Rechenzentren
 - Zutrittsschutz und Zutrittskontrolle in Rechenzentren umfassen Maßnahmen wie Sicherheitsschlösser, biometrische Scanner und Zugangskarten, um den Zugang zu sensiblen Bereichen zu beschränken und die physische Sicherheit der Infrastruktur zu gewährleisten.
 
-!Done!_Kenntnisse über Cluster-Technologien (High Availability, Heart-Beat)
+Kenntnisse über Cluster-Technologien (High Availability, Heart-Beat)
 - Cluster-Technologien:
   - Zusammenfassung mehrerer Server zu einem Verbund
   - Erhöhung der Verfügbarkeit von Diensten und Anwendungen
@@ -2650,7 +2650,7 @@ Kenntnisse über Hypervisor-Technologien (XEN, KVM, ESX, Hyper-V)
 - **Anwendungsbereiche**:
   - Serverkonsolidierung, Testumgebungen, Entwicklung, Disaster Recovery, Cloud Computing.
 
-!Done!_Kenntnisse über Virtualisierung
+Kenntnisse über Virtualisierung
 - **Grundkonzept Virtualisierung**: Verfahren zur simultanen Ausführung mehrerer Betriebssysteme oder Anwendungen auf einem einzelnen physischen Rechner, wodurch Hardware-Ressourcen effizienter genutzt werden.
 
 - **Server-Virtualisierung**:
@@ -2688,7 +2688,7 @@ Kenntnisse über Hypervisor-Technologien (XEN, KVM, ESX, Hyper-V)
 
 ### 2.1 Netzwerktechnik
 
-!Done!_Kenntnisse über den Aufbau einer Routingtabelle
+Kenntnisse über den Aufbau einer Routingtabelle
 - Enthält Wegweiser für Datenpakete im Netzwerk
 - Bestandteile: Zielnetzwerk, Subnetzmaske, Nächstgelegener Router (Gateway), Interface zum Senden des Pakets, Metrik (Distanz/Priorität)
 - Dynamisch oder statisch: Manuell eingetragen oder durch Routing-Protokolle aktualisiert
@@ -2697,7 +2697,7 @@ Kenntnisse über Hypervisor-Technologien (XEN, KVM, ESX, Hyper-V)
 - Lebensdauer: Zeitraum, für den eine Route als gültig betrachtet wird
 - Priorisierung von Routen: Basierend auf niedrigster Metrik/Kosten
 
-!Done!_Kenntnisse über statisches Routing, dynamisches Routing
+Kenntnisse über statisches Routing, dynamisches Routing
 - **Statisches Routing**
   - Manuelle Konfiguration der Routen auf Routern
   - Beständige, unveränderliche Routen
@@ -2712,7 +2712,7 @@ Kenntnisse über Hypervisor-Technologien (XEN, KVM, ESX, Hyper-V)
   - Erhöhter Bandbreiten- und Ressourcenverbrauch durch regelmäßige Updates
   - Verringerte manuelle Administrationsnotwendigkeit
 
-!Done!_Fachbegriff Uplink-Port
+Fachbegriff Uplink-Port
 - Verbindungselement in Netzwerkequipment (z.B. Switches, Router)
 - Ermöglicht die Anbindung an übergeordnete Netzwerkgeräte oder größere Netzwerke
 - Wird genutzt, um Datenverkehr zum Backbone oder Hauptnetz zu senden
@@ -2720,7 +2720,7 @@ Kenntnisse über Hypervisor-Technologien (XEN, KVM, ESX, Hyper-V)
 - Kann feste oder konfigurierbare Einstellungen haben, abhängig vom Gerätetyp
 - Dient der Netzwerkerweiterung und effizienteren Datenverteilung
 
-!Done!_Fachbegriff VLAN
+Fachbegriff VLAN
 - Virtuelles lokales Netzwerk
 - Trennung physischer Netzwerke in mehrere logische Segmente
 - Verbesserung der Netzwerksicherheit und -leistung
@@ -2731,7 +2731,7 @@ Kenntnisse über Hypervisor-Technologien (XEN, KVM, ESX, Hyper-V)
 - Ermöglicht flexiblere Netzwerkverwaltung und -konfiguration
 - Unterstützt Zugriffskontrollrichtlinien und Verkehrsmanagement
 
-!Done!_Aufbau eines Koaxialkabels, Twisted-Pair-Kabels
+Aufbau eines Koaxialkabels, Twisted-Pair-Kabels
 - **Adernpaare**: Enthält typischerweise 2, 4 oder mehr Adernpaare, die miteinander verdrillt sind, um elektromagnetische Störungen zu minimieren.
 - **Leitermaterial**: Meist aus Kupfer, für die Übertragung von elektrischen Signalen.
 - **Isolierung der Adernpaare**: Kunststoffisolierung um jede Ader, farblich kodiert zur Unterscheidung.
@@ -2740,7 +2740,7 @@ Kenntnisse über Hypervisor-Technologien (XEN, KVM, ESX, Hyper-V)
   - STP (Shielded Twisted Pair): Mit Schirmung um die Adernpaare oder jedes Paar einzeln geschirmt, zur besseren Reduzierung von elektromagnetischen Interferenzen.
 - **Außenmantel**: Schützende äußere Hülle aus Kunststoff, schützt vor mechanischen Beschädigungen und Umwelteinflüssen.
 
-!Done!_Kenntnis der CAT6/6a/7-Spezifikationen
+Kenntnis der CAT6/6a/7-Spezifikationen
 - **CAT6**
   - Frequenzbereich: bis 250 MHz
   - Übertragungsgeschwindigkeit: maximal 1 Gbps über 100 Meter; 10 Gbps bis 55 Meter
@@ -2762,7 +2762,7 @@ Kenntnisse über Hypervisor-Technologien (XEN, KVM, ESX, Hyper-V)
   - Anwendungsgebiet: High-Speed-Anwendungen, Datacenter, anspruchsvolle Netzwerkinfrastrukturen
   - Besonderheit: Erheblich erhöhte Bandbreite und Abschirmung gegenüber CAT6a, stark reduziertes Crosstalk, strengere Installationsspezifikationen
 
-!Done!_Aufbau eines LWL-Kabels
+Aufbau eines LWL-Kabels
 - **Kern (Core):** Zentrales Element, aus Glas oder Kunststoff, durch das die Lichtsignale geleitet werden.
 - **Mantel (Cladding):** Um den Kern herum, aus Glas oder Kunststoff mit einem geringeren Brechungsindex als der Kern, hält Licht im Kern durch Totalreflexion.
 - **Beschichtung (Coating):** Kunststoffschicht um Mantel, schützt vor Feuchtigkeit und mechanischen Beschädigungen, verbessert die Flexibilität.
@@ -2770,7 +2770,7 @@ Kenntnisse über Hypervisor-Technologien (XEN, KVM, ESX, Hyper-V)
 - **Außenhülle (Jacket):** Äußere Schutzschicht des Kabels, schützt vor physischen und chemischen Einflüssen, oft aus PVC oder LSZH-Material.
 - **Mögliche zusätzliche Schichten:** Wasserabsorbierende Materialien, metallische Schutzschichten oder Schichten zur Verbesserung der Feuerbeständigkeit, je nach Anwendungsgebiet und Anforderungen.
 
-!Done!_Unterscheidung der Fachbegriffe Monomode und Multimode
+Unterscheidung der Fachbegriffe Monomode und Multimode
 - **Monomode (Singlemode)**
   - Übertragung mit nur einem Lichtpfad
   - Einsatz von Laser als Lichtquelle
@@ -2785,24 +2785,24 @@ Kenntnisse über Hypervisor-Technologien (XEN, KVM, ESX, Hyper-V)
   - Geringere Bandbreite im Vergleich zu Monomode
   - Verwendet in Kurzstreckenübertragung, z.B. in Gebäuden, Data Centern
 
-!Done!_Fachbegriff Patch-Panel
+Fachbegriff Patch-Panel
 - Bestandteil von strukturierten Verkabelungen
 - Dient als zentraler Anschlusspunkt
 - Verbindet Netzwerkkabel mit Netzwerkgeräten
 - Ermöglicht einfaches Umstecken und Verwalten von Netzwerkverbindungen
 - Häufig in Serverschränken und IT-Räumen
 
-!Done!_Fachbegriff Netzwerkdose
+Fachbegriff Netzwerkdose
 - Anschlusspunkt für Netzwerkkabel
 
-!Done!_Fachbegriff RJ45-Stecker
+Fachbegriff RJ45-Stecker
 - RJ steht für Registered Jack (genormte Buchse).
 - Standardisierte Steckverbindung
 - Einsatz in der Netzwerktechnik
 - Verbindung von Computern mit Netzwerkgeräten (z.B. Switches, Router)
 - 8-polig für Twisted-Pair-Kabel
 
-!Done!_Fachbegriff PoE
+Fachbegriff PoE
 - Power over Ethernet.
 - Technik zur Stromversorgung von Netzwerkgeräten über das Ethernet-Kabel
 - Übertragung von Daten und Strom über dasselbe Kabel
@@ -2810,7 +2810,7 @@ Kenntnisse über Hypervisor-Technologien (XEN, KVM, ESX, Hyper-V)
 - PoE-Geräte klassifiziert nach Leistungsklassen (z.B. PoE, PoE+)
 - Vereinfacht Netzwerkinstallationen und reduziert Installationskosten
 
-!Done!_Fachbegriff Ethernet
+Fachbegriff Ethernet
 - Standard für lokale Datenkommunikationsnetzwerke (LAN)
 - Grundlage für den physischen Datentransfer und Datenzugriffskontrollverfahren
 - Nutzt Kabel (z.B. Twisted-Pair, Koaxial) und optische Verbindungen für die Übertragung
@@ -2819,7 +2819,7 @@ Kenntnisse über Hypervisor-Technologien (XEN, KVM, ESX, Hyper-V)
 - Unterstützt Punkt-zu-Punkt- und Punkt-zu-Mehrpunkt-Konfigurationen
 - Durch IEEE 802.3 standardisiert
 
-!Done!_Aufbau eines Ethernet-Paketes
+Aufbau eines Ethernet-Paketes
 - **Präambel**: 7 Bytes zur Synchronisation, signalisiert Start des Paketes.
 - **Start Frame Delimiter (SFD)**: 1 Byte, markiert Beginn der eigentlichen Frame-Daten.
 - **Ziel-MAC-Adresse**: 6 Bytes, kennzeichnet Empfängergerät.
