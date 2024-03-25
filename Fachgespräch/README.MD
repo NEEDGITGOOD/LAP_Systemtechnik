@@ -23,8 +23,7 @@ Cat8: Die neueste und fortschrittlichste Kategorie, die für Datenübertragungsr
 
 ### Wozu dienen Ports?
 
-### Erkläre den Begriff Portweiterleitung durch
-einen Router 
+### Erkläre den Begriff Portweiterleitung durch einen Router 
 
 ### Was bedeutet der Begriff DOCSIS? 
 
@@ -34,26 +33,19 @@ einen Router
 
 ### Nenne die Zusammensetzung der URL
 
-### Warum sind Netzwerkkabel Paarweise
-verdrillt (Cat5, Cat6)? 
+### Warum sind Netzwerkkabel Paarweise verdrillt (Cat5, Cat6)? 
 
-### Welche Übertragungsmedien werden in
-der Übertragungstechnik eingesetzt?
+### Welche Übertragungsmedien werden in der Übertragungstechnik eingesetzt?
 
-### Was versteht man bei einer
-Übertragungsstrecke unter dem Begriff
-Dämpfung?
+### Was versteht man bei einer Übertragungsstrecke unter dem Begriff Dämpfung?
 
 ### Wovon ist die Dämpfung abhängig?
 
-### In welcher Einheit wird das
-Dämpfungsmaß (Dämpfung) angegeben?
+### In welcher Einheit wird das Dämpfungsmaß (Dämpfung) angegeben?
 
-###  Welche Modulationsarten unterscheidet
-man?
+###  Welche Modulationsarten unterscheidet man?
 
-### Welche Modulationsarten werden bei
-analoger Übertragung verwendet?
+### Welche Modulationsarten werden bei analoger Übertragung verwendet?
 
 ### Welche Modulationsarten werden bei digitaler Übertragung verwendet?
 
