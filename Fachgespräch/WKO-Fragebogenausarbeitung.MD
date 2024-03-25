@@ -2739,13 +2739,11 @@ Aufbau eines Koaxialkabels, Twisted-Pair-Kabels
 
 | Kabeltyp | Beschreibung                                                                                                                                                              | Typische Kabelkategorien         |
 |----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
-| STP      | Shielded Twisted Pair - Geeignet für Hochgeschwindigkeitsnetzwerke und Hochsicherheitsübertragungen. Mit Schirmung um die Adernpaare oder jedes Paar einzeln geschirmt. | Cat6, Cat6a, Cat7                |
-| SFTP     | Shielded Foiled Twisted Pair - Bietet zusätzliche Schirmung mit Folie, ideal für Umgebungen, die eine sehr geringe Dämpfung des internen Signals erfordern.               | Cat7, Cat7a, Cat8                |
 | UTP      | Unshielded Twisted Pair - Geeignet für Netzwerkanwendungen mit einer Übertragungsbandbreite von weniger als 250 MHz ohne besondere Leistungsanforderungen.                | Cat5e, Cat6                      |
 | FTP      | Foiled Twisted Pair - Bietet Schirmung für das gesamte Kabelbündel, entwickelt für größeren Schutz vor Übersprechen, RFI und EMI.                                           | Cat5e, Cat6, Cat6a               |
+| STP      | Shielded Twisted Pair - Geeignet für Hochgeschwindigkeitsnetzwerke und Hochsicherheitsübertragungen. Mit Schirmung um die Adernpaare oder jedes Paar einzeln geschirmt. | Cat6, Cat6a, Cat7                |
+| SFTP     | Shielded Foiled Twisted Pair - Bietet zusätzliche Schirmung mit Folie, ideal für Umgebungen, die eine sehr geringe Dämpfung des internen Signals erfordern.               | Cat7, Cat7a, Cat8                |
 | ASTP     | Armored Shielded Twisted Pair - Bietet physischen Schutz zur Verhinderung von Nagetierschäden und ist für explosionssichere Verkabelungssysteme geeignet.                   | Spezialisierte Anwendungen       |
-
-
 
 Kenntnis der CAT6/6a/7-Spezifikationen
 - **CAT6**
