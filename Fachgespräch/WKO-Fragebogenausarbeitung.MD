@@ -2735,10 +2735,17 @@ Aufbau eines Koaxialkabels, Twisted-Pair-Kabels
 - **Adernpaare**: Enthält typischerweise 2, 4 oder mehr Adernpaare, die miteinander verdrillt sind, um elektromagnetische Störungen zu minimieren.
 - **Leitermaterial**: Meist aus Kupfer, für die Übertragung von elektrischen Signalen.
 - **Isolierung der Adernpaare**: Kunststoffisolierung um jede Ader, farblich kodiert zur Unterscheidung.
-- **Schirmung (optional)**: 
-  - UTP (Unshielded Twisted Pair): Ohne zusätzliche Schirmung, häufig in niedrig-interferierenden Umgebungen.
-  - STP (Shielded Twisted Pair): Mit Schirmung um die Adernpaare oder jedes Paar einzeln geschirmt, zur besseren Reduzierung von elektromagnetischen Interferenzen.
-- **Außenmantel**: Schützende äußere Hülle aus Kunststoff, schützt vor mechanischen Beschädigungen und Umwelteinflüssen.
+- **Schirmung**: 
+
+| Kabeltyp | Beschreibung                                                                                                                                                              | Typische Kabelkategorien         |
+|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| STP      | Shielded Twisted Pair - Geeignet für Hochgeschwindigkeitsnetzwerke und Hochsicherheitsübertragungen. Mit Schirmung um die Adernpaare oder jedes Paar einzeln geschirmt. | Cat6, Cat6a, Cat7                |
+| SFTP     | Shielded Foiled Twisted Pair - Bietet zusätzliche Schirmung mit Folie, ideal für Umgebungen, die eine sehr geringe Dämpfung des internen Signals erfordern.               | Cat7, Cat7a, Cat8                |
+| UTP      | Unshielded Twisted Pair - Geeignet für Netzwerkanwendungen mit einer Übertragungsbandbreite von weniger als 250 MHz ohne besondere Leistungsanforderungen.                | Cat5e, Cat6                      |
+| FTP      | Foiled Twisted Pair - Bietet Schirmung für das gesamte Kabelbündel, entwickelt für größeren Schutz vor Übersprechen, RFI und EMI.                                           | Cat5e, Cat6, Cat6a               |
+| ASTP     | Armored Shielded Twisted Pair - Bietet physischen Schutz zur Verhinderung von Nagetierschäden und ist für explosionssichere Verkabelungssysteme geeignet.                   | Spezialisierte Anwendungen       |
+
+
 
 Kenntnis der CAT6/6a/7-Spezifikationen
 - **CAT6**
