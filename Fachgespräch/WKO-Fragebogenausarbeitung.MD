@@ -2953,10 +2953,8 @@ Kenntnisse über NAT/PAT-Technologie
 Kenntnisse über Port-Forwarding
 - Port-Forwarding: Weiterleitung von Netzwerkanfragen von einem Netzwerkport eines Geräts an einen spezifischen Port eines anderen Geräts im selben Netzwerk oder in einem anderen Netzwerk
 
-Fachbegriff QoS
-- Quality of Service, kurz QoS, sind Maßnahmen und Verfahren zur Einflussnahme auf den Datenverkehr in einem Netzwerk, um die Qualität und Erreichbarkeit von Netzwerkdiensten zu verbessern oder zu gewährleisten.
-
 Fachbegriff [QoS](https://www.elektronik-kompendium.de/sites/net/0905131.htm)
+- Quality of Service, kurz QoS, sind Maßnahmen und Verfahren zur Einflussnahme auf den Datenverkehr in einem Netzwerk, um die Qualität und Erreichbarkeit von Netzwerkdiensten zu verbessern oder zu gewährleisten.
 - Steht für "Quality of Service"
 - Gestaltung der Datenübertragungsqualität in Netzwerken
 - Priorisierung von Datenpaketen, Anwendungen oder Diensten
@@ -3055,6 +3053,9 @@ Kenntnisse über VPN und Tunneling
 ### 2.2 Netzwerkdienste
 
 Funktionsprinzip eines LDAP-Servers
+- Ports:
+  - LDAP: 389
+  - LDAPS: 636
 - **Basis**: Leichtgewichtige Version des X.500-Protokolls für den Zugriff auf Verzeichnisdienste
 - **Zweck**: Ermöglicht das Suchen, Lesen und Verwalten von Informationen in einem verteilten Verzeichnis
 - **Datenstruktur**: Organisiert in hierarchischer Baumstruktur, ähnlich einem Dateisystem
