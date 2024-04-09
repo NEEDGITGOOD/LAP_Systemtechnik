@@ -2868,7 +2868,6 @@ Fachbegriffe Gbit-Ethernet, 10Gbit-Ethernet
 - Anwendungen: Für Anwendungen mit hoher Bandbreite wie Video-Streaming, Cloud-Computing, Datensicherungen und in Bereichen, wo große Datenmengen schnell übertragen werden müssen.
 
 Fachbegriff Traffic-Shaping
-Fachbegriff Traffic-Shaping
 - Verfahren zur Steuerung des Datenflusses in Netzwerken
 - Priorisierung und Kontrolle des Bandbreitenverbrauchs bestimmter Datenpakete oder Dienste
 - Ziel: Optimierung der Netzwerkleistung und Minimierung von Latenzzeiten
