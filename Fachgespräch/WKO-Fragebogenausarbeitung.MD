@@ -283,8 +283,8 @@ Beilagen technischer Dokumentationen (Testprotokoll, Netzwerkplan, …)
   - Wichtig für Einhaltung von Standards, Vorschriften und für Trainingszwecke.
   - Erleichtern Wartung, Diagnose und Störungsbehebung.
 
-~~Gestaltung und Vorbereitung von Präsentationen~~
-
+<!-- Gestaltung und Vorbereitung von Präsentationen -->
+<!-- NOTE: Unimportant -->
   
 
 ### 3.2 Gesetzliche Bestimmungen/Datenschutz
@@ -400,9 +400,6 @@ Kenntnisse über Pflichtangaben beim E-Mail-Verkehr von Unternehmen
 - Zweck: Transparenz und Rechtssicherheit bei geschäftlichem E-Mail-Verkehr.
 - Geltungsbereich: Für alle geschäftlichen E-Mails, unabhängig von der Versandart oder dem verwendeten Programm.
 
-Kenntnisse über die gesetzliche Einhaltung von Bildschirmpausen
-- Alle 50 Minuten ist eine kurze Pause oder ein Tätigkeitswechsel von mindestens 10 Minuten vorgeschrieben
-
 ### 3.3 Informatik und Gesellschaft
 
 Fachbegriff Big-Data
@@ -471,7 +468,7 @@ Kenntnisse über Vor- und Nachteile bei Nutzung von biometrischen Daten
 
 ### 3.4 Datenaustausch
 
-Möglichkeiten des Datenaustausches #Q
+Möglichkeiten des Datenaustausches
 - Elektronische Form
 - klassisch per Papier
 - Sprache
@@ -530,23 +527,17 @@ Kenntnisse über Schnittstellen, Übertragungstechnologie
 - Datenrate: 
   - Maßeinheit für die Geschwindigkeit der Datenübertragung, angegeben in Bit pro Sekunde (bps), Kbps, Mbps, Gbps
 
-- Sicherheitsaspekte:
-  - Verschlüsselung und Authentifizierungsverfahren zum Schutz der übertragenen Daten
-
 - Anwendungsgebiete:
   - Datenaustausch zwischen Geräten (z.B. PC und Drucker)
   - Netzwerkkommunikation (z.B. zwischen Servern und Clients)
   - Fernsteuerung und Monitoring von Systemen über das Internet
-
-- Wartung und Fehlerbehebung:
-  - Regelmäßige Updates und Patches für Software-Schnittstellen
-  - Überprüfung der physischen Anschlüsse und Kabel auf Beschädigungen
 
 - Datenschnittstelle - Daten als Schnittstellen zwischen Programmen. Maschinenschnittstelle - zwischen physischen Systemen. Hardwareschnittstelle - zwischen physischen Systemen der Computertechnik.
 
 - Kupfer (max. länge 100m), Glasfaser und Wireless (Radiowellen)
 
 Vor- und Nachteile Hosting-/Cloud-Lösungen
+
 Vorteile:
 - Flexibilität: Schnelle Anpassung der Ressourcen an den Bedarf.
 - Kosteneffizienz: Zahlung nur für genutzte Ressourcen, keine Investitionen in Hardware.
@@ -693,6 +684,7 @@ Fachbegriff Cache
 - Reduziert Zugriffszeit auf Daten gegenüber Hauptspeicher oder Festplatte
 
 Fachbegriff RAM, Flash-RAM und Kenntnisse über aktuelle RAM-Technologien
+
 **RAM (Random Access Memory):**
 - Flüchtiger Speicher: Inhalte gehen bei Stromausschaltung verloren.
 - Zugriff: Direkter Zugriff auf jede Speicherzelle, gleiche Zugriffszeit für alle Zellen.
@@ -712,6 +704,7 @@ Fachbegriff RAM, Flash-RAM und Kenntnisse über aktuelle RAM-Technologien
 - GDDR (Graphics DDR): Speziell für Grafikkarten entwickelt, höhere Bandbreite für Grafikverarbeitung.
 
 Fachbegriffe HDD, SSD, SHDD
+
 **HDD (Hard Disk Drive):**
 - Magnetische Speichertechnologie
 - Physische Datenträger (rotierende Scheiben)
@@ -836,6 +829,7 @@ Fachbegriff SATA-Schnittstelle
 <!-- NOTE: Duplikat von 1.1 -->
 
 Funktionsweise einer Tastatur, optischen Maus
+
 **Funktionsweise einer Tastatur:**
 - Eingabegerät mit Tasten für Zeichen, Zahlen, Symbole und Funktionen.
 - Drücken einer Taste führt zu elektrischem Signal.
@@ -1023,10 +1017,14 @@ Fachbegriffe FAT, NTFS
 - FAT -> File Allocation Table
 - Eigenschaften
 - Für USB Sticks
-  - FAT16 (max 4 Gigabyte)
-  - FAT12 (max 4 Gigabyte Datei)
-  - exfat (max 512 Terabyte)
-  - FAT12 (max 16 Terabyte)
+
+  - FAT16 (max 4 Gigabyte)
+
+  - FAT12 (max 4 Gigabyte Datei)
+
+  - exfat (max 512 Terabyte)
+
+  - FAT12 (max 16 Terabyte)
 
 NTFS:
 - New Technology File System
@@ -1061,7 +1059,7 @@ Kenntnisse über die Akku-Technologien (NiMh/LiPo/LiIon)
   - Die am weitesten verbreitete Technologie in mobilen Geräten, bekannt für hohe Energiedichte und lange Lebensdauer ohne signifikanten Memory-Effekt.
 
 Kenntnisse über kapazitive Touchscreens
-- Leitfähigkeit überd des menschlichen Körpers
+- Leitfähigkeit über des menschlichen Körpers
 
 Kenntnisse über verbaute Sensorik und dessen Nutzungsmöglichkeiten
 - Beschleunigungssensor: Erkennt Bewegungen und Ausrichtung des Geräts, nützlich für Spiele und Bildschirmrotation.
@@ -1280,6 +1278,7 @@ Kenntnis der Netzwerktopologien wie Stern, Ring, Bus, Baum, Masche
 ![alt text](netzwerktopologien.png)
 
 Kenntnis der Vor- und Nachteile der jeweils eingesetzten Netzwerktopologien
+
 **Stern-Topologie:**
 - Vorteile:
   - Einfaches Hinzufügen oder Entfernen von Geräten ohne Netzwerkstörung.
