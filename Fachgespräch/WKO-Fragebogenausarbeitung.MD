@@ -567,6 +567,11 @@ Fachbegriffe Eingabe(gerät), Ausgabe(gerät) und deren Zusammenhang (EVA-Prinzi
   - Beispiele: Tastatur, Maus, Scanner, Mikrofon.
   - Funktion: Benutzereingaben aufnehmen und an den Rechner weiterleiten.
 
+- **Speichergerät**:
+  - Geräte oder Komponenten, die Daten zwischen der Eingabe und Ausgabe speichern und verfügbar halten.
+  - Beispiele: Festplatte, SSD, USB-Stick, RAM.
+  - Funktion: Speicherung von Daten und Programmen, die für die Verarbeitung und spätere Abrufung benötigt werden.
+
 - **Ausgabegerät**:
   - Geräte, die verarbeitete Daten vom Computer in eine für den Benutzer verständliche oder nutzbare Form umsetzen.
   - Beispiele: Monitor, Drucker, Lautsprecher.
@@ -575,7 +580,7 @@ Fachbegriffe Eingabe(gerät), Ausgabe(gerät) und deren Zusammenhang (EVA-Prinzi
 - **EVA-Prinzip**:
   - Steht für Eingabe, Verarbeitung, Ausgabe.
   - Beschreibt die grundlegende Funktionsweise von Computern.
-  - Prozess: Daten werden über Eingabegeräte eingegeben, im Rechner verarbeitet und über Ausgabegeräte ausgegeben.
+  - Prozess: Daten werden über Eingabegeräte eingegeben, im Rechner verarbeitet, auf Speichergeräten gesichert und über Ausgabegeräte ausgegeben.
   - Kernprinzip der Informationsverarbeitung.
 
 Unterscheidung zwischen Analog- und Digitaltechnik
