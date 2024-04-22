@@ -2344,6 +2344,7 @@ Funktion und Aufbau der seriellen Schnittstell
 - Datenbits auf Datenbus parallel vorhanden -> Serielle Schnittstelle überträgt Datenbits nacheinander -> Deshalb wird Parallel-Seriell-Wandlung notwendig -> Datenwort wird aus Speicher in Schnittstellenspeicher geschrieben -> Wird dann aufgeteilt und die Datenbits einzeln übertragen.
 
 Funktion der USB-Schnittstelle und aktuelle USB-Spezifikationen
+
 USB = Universal Serial Bus
 - ist ein serielles Bussystem zur Verbindung eines Computers mit externen Geräten.
 
