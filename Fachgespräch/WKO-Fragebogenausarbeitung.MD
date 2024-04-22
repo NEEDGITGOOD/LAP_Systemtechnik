@@ -2436,6 +2436,7 @@ Fachbegriffe E-Ink, OLED
   Im Unterschied zu LCD Panels emittieren OLED Panels bei angelegter Spannung ihr eigenes Licht und sind nicht auf eine externe Hintergrundbeleuchtung angewiesen.
 
 Fachbegriff Edge, 3G bzw. UMTS, 4G bzw. LTE, 5G
+
 **EDGE (Enhanced Data Rates for GSM Evolution):**
 - Erweiterung des GSM-Netzes.
 - Ermöglicht höhere Datenübertragungsraten als GPRS.
