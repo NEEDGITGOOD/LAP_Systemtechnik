@@ -597,6 +597,8 @@ Kenntnis der Logik-Schaltungen (AND, OR, XOR, NOT) und deren Wahrheitstabellen
 - XOR:
   - Kann durch zwei Wechselschalter mit umgekehrter Anschlussbelegung realisiert werden. Ein Stromfluss im Hauptstromkreis ist auf diese Weise nur dann möglich, wenn entweder der eine oder der andere Schalter geschlossen ist. Sind beide Schalter geschlossen oder geöffnet, kann kein Strom fließen.
 
+ ![logikgattern](logikgattern.png)
+
 Kenntnis des Zeichensatzes ASCII
 - ASCII = American Standard Code for Information Interchange
 
