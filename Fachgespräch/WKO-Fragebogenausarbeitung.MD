@@ -844,6 +844,7 @@ Funktionsweise einer Tastatur, optischen Maus
 - Bewegungsänderungen werden durch Vergleichen der Bilder identifiziert.
 - Daten über Bewegung und Klicks werden an den Computer gesendet.
 - Funktioniert auf verschiedenen Oberflächen ohne Mauspad.
+
 Vor- und Nachteile von Funk-Tastaturen, Funk-Mäusen
 - Voteile:
   - Beweglichkeit
@@ -1058,6 +1059,9 @@ Kenntnisse über die Akku-Technologien (NiMh/LiPo/LiIon)
 - LiIon (Lithium-Ionen): 
   - Die am weitesten verbreitete Technologie in mobilen Geräten, bekannt für hohe Energiedichte und lange Lebensdauer ohne signifikanten Memory-Effekt.
 
+- Memory-Effekts
+  - Batterie "merkt" sich den vorherigen Ladepunkt und man kann ihn nicht mehr über diesen laden.
+
 Kenntnisse über kapazitive Touchscreens
 - Leitfähigkeit über des menschlichen Körpers
 
@@ -1074,6 +1078,22 @@ Fachbegriff Multitouch
 Kenntnisse über Bluetooth Standards
 - Drahtlose Technologie für kurze Distanzen (bis zu 100 Meter)
 - Ermöglicht Kommunikation zwischen Geräten wie Smartphones, Computern, Kopfhörern
+
+V1.0
+  - 732,2 Kbit/s (Outdoor: 10m, Indoor: 1m)
+
+V2.0
+  - 2,1 Mbit/s (Outdoor: 10m, Indoor: 1m)
+
+V3.0
+  - 24 Mbit/s (Outdoor: 50m, Indoor: 10m)
+
+V4.0
+  - 25 Mbit/s (Outdoor: 50m, Indoor: 10m)
+ 
+V5.0
+  - 50 Mbit/s (Outdoor: 200m, Indoor: 40m)
+
 
 <!-- Kenntnisse über Betriebssysteme mobiler Geräte (Android, IOS, …) -->
 
@@ -1160,11 +1180,10 @@ Kenntnis der Unterschiede von offenen, proprietären und plattformunabhängigen 
 ### 5.5 Programmiersprachen
 
 Kenntnisse über gängige Programmiersprachen und deren Anwendungsmöglichkeiten
-- Python
-- C++
-- Haskell
-- Java
-- Rust
+- Python (Automatisierung, Data Analysis, Websites)
+- C, C++, C#
+- Java (Game Engines, Mobile Applications)
+- JavaScript (Scripting für Webseiten)
 
 <!-- Unterschied prozedurale und objektorientierte Programmierung
 
@@ -1328,6 +1347,7 @@ Kenntnis der Vor- und Nachteile der jeweils eingesetzten Netzwerktopologien
   - Kann teurer in der Implementierung sein im Vergleich zu Einzeltopologien.
 
 Funktionsprinzip eines Routers, Switches
+
 **Router:**
 - Verbindet unterschiedliche logische Netzwerke (z.B. lokales Netzwerk mit dem Internet).
 - Verwendet IP-Adressen zur Wegfindung von Datenpaketen zwischen Netzwerken.
@@ -1701,6 +1721,7 @@ Kenntnisse über Private/Public/Hybrid Cloud
   - Eignet sich für dynamische oder veränderliche Arbeitslasten
 
 Fachbegriffe IaaS, PaaS, SaaS
+
 **IaaS (Infrastructure as a Service):**
 - Bereitstellung von IT-Infrastrukturen wie Servern, Speichersystemen und Netzwerkkomponenten über das Internet
 - Nutzer können auf diese Ressourcen on-demand zugreifen und zahlen nach Nutzung
@@ -1712,6 +1733,12 @@ Fachbegriffe IaaS, PaaS, SaaS
 - Umfasst Betriebssysteme, Entwicklungs-Tools, Datenbankmanagement
 - Nutzer konzentrieren sich auf die Entwicklung, ohne sich um Unterhaltung der Infrastruktur kümmern zu müssen
 - Beispiele: Google App Engine, Heroku
+
+**SaaS (Software as a Service):**
+- Bereitstellung von Anwendungssoftware über das Internet
+- Nutzer greifen über einen Webbrowser auf die Software zu, keine Installation auf lokalen Geräten notwendig
+- Typischerweise auf Abonnementbasis
+- Beispiele: Google Workspace, Microsoft 365
 
 Kriterien und Voraussetzungen für den Einsatz von Cloud-Diensten
 - **Sicherheitsanforderungen**: Datenschutzgesetze beachten, Verschlüsselungsstandards, Zwei-Faktor-Authentifizierung.
@@ -1726,12 +1753,6 @@ Kriterien und Voraussetzungen für den Einsatz von Cloud-Diensten
 - **Datensicherung und Wiederherstellung**: Robuste Mechanismen für Backup und Disaster Recovery.
 - **Kundensupport**: Zugang zu umfassendem, rechtzeitigem Support.
 - **Service Level Agreement (SLA)**: Klare Vereinbarungen zu Leistung, Verfügbarkeit und Support.
-
-**SaaS (Software as a Service):**
-- Bereitstellung von Anwendungssoftware über das Internet
-- Nutzer greifen über einen Webbrowser auf die Software zu, keine Installation auf lokalen Geräten notwendig
-- Typischerweise auf Abonnementbasis
-- Beispiele: Google Workspace, Microsoft 365
 
 ### 6.3 IT-Security und Betriebssicherheit
 Kenntnisse über Gefahren von Viren, Würmern, Trojanern, Spyware, Hackern, Phishing
@@ -2102,7 +2123,9 @@ Fachbegriff Chipset
 - Funktioniert als Kommunikationsschnittstelle zwischen Prozessor, Speicher und anderen Peripheriegeräten
 - Beinhaltet Steuerungslogiken für verschiedene Schnittstellen wie USB, SATA, PCI-Express
 - Unterteilt in Northbridge und Southbridge in älteren Systemarchitekturen:
+
    - Northbridge: Verbindung von CPU, RAM und Grafikkarte
+
    - Southbridge: Verwaltung von I/O-Geräten wie Festplatten, Soundkarten
 
 Fachbegriffe Jumper, DIP-Schalter
@@ -2156,6 +2179,7 @@ Funktionsprinzip eines Plotters
 - Ermöglicht kontinuierliches Zeichnen von Linien und Kurven im Gegensatz zum punktweisen Druck von herkömmlichen Druckern
 
 Funktionsprinzip der Bubblejet-Technik/Piezo-Technik (Tintenstrahldrucker)
+
 **Bubblejet-Technik:**
 - **Heizelemente:** In der Düse integrierte Heizelemente erwärmen die Tinte kurzfristig.
 - **Blasenbildung:** Die Tinte verdampft teilweise und bildet eine Blase.
